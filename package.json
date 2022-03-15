@@ -1,0 +1,25 @@
+{
+  "name": "dj-mixer-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MisterBalboa/dj-mixer-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MisterBalboa/dj-mixer-api/issues"
+  },
+  "homepage": "https://github.com/MisterBalboa/dj-mixer-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "mongodb": "^4.4.1"
+  }
+}
